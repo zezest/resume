@@ -40,6 +40,29 @@
 
 <br/><br/>
 
+### 다방프로 앱 웹뷰
+
+다방과 연계되는 공인중개사 전용 매물 관리 서비스 제공
+
+<img src="./img/dabang/pro_app_01.png" width="100%">
+
+주소
+- [GooglePlay](https://play.google.com/store/apps/details?id=kr.co.station3.dabang)
+- [AppStore](https://itunes.apple.com/kr/app/id1215588806)
+
+소속 : 스테이션3
+
+기간 : 2016.08 ~
+
+사용기술 : react, webpack, daum map, less, styled-components
+
+상세 : 
+  - 확인매물추가 (2018.08)
+  - 매물등록 매매추가 (2017.07)
+  - 다방프로앱 오픈 (2017.01)
+
+<br/><br/>
+
 ### 다방프로 웹
 
 다방과 연계되는 공인중개사 전용 매물 관리 서비스 제공
@@ -80,26 +103,3 @@
   - 매물등록 -> 다방페이 추가 (2016.11)
   - 다방프로 리뉴얼 (2016.10)
   - 다방소개 페이지 추가
-
-<br/><br/>
-
-### 다방프로 앱 웹뷰
-
-다방과 연계되는 공인중개사 전용 매물 관리 서비스 제공
-
-<img src="./img/dabang/pro_app_01.png" width="100%">
-
-주소
-- [GooglePlay](https://play.google.com/store/apps/details?id=kr.co.station3.dabang)
-- [AppStore](https://itunes.apple.com/kr/app/id1215588806)
-
-소속 : 스테이션3
-
-기간 : 2016.08 ~
-
-사용기술 : react, webpack, daum map, less, styled-components
-
-상세 : 
-  - 확인매물추가 (2018.08)
-  - 매물등록 매매추가 (2017.07)
-  - 다방프로앱 오픈 (2017.01)
