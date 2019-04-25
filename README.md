@@ -86,6 +86,7 @@
      - react v15 -> v16 변경
      - react-dom v15 -> v16 변경
      - react-addons-update -> immutability-helper 변경
+     - less -> styled-components로 변경
      - styled-components v2 -> v3 변경
      - 모달 변경 render, unmountComponentAtNode -> createPortal
   - 매물등록 -> 아파트 매매 추가 (2017.07)
@@ -94,10 +95,9 @@
   - 강제약관동의 추가 (2017.03)
   - 리팩토링 (2017.01)
     - babel v5 -> v6 변경
-    - react v13 -> v15 변경
+    - react v14 -> v15 변경
     - react-router v1.0.2 -> v3 변경
     - gulp -> webpack 변경
-    - es2015, es2016 추가
     - 코드 es5 -> es6 변경
   - 캠퍼스 상품 추가 (2016.11)
   - 매물등록 -> 다방페이 추가 (2016.11)
